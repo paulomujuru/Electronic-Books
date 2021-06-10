@@ -1,0 +1,4 @@
+*__pycache__*
+db.sqlite3
+bookshelf_management/apps/mgmt/migrations/*
+env
